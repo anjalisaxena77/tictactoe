@@ -1,2 +1,2 @@
 # tictactoe
-A simple tictactoe using JavaScript.
+A simple tic-tac-toe using JavaScript.
